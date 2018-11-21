@@ -1,0 +1,3 @@
+Linear Gauge 
+https://www.infragistics.com/products/ignite-ui-angular/angular/components/lineargauge.html
+
